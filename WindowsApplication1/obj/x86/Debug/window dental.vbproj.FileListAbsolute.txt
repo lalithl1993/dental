@@ -1,0 +1,282 @@
+c:\users\lio\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+c:\users\lio\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\window dental.vbproj.GenerateResource.Cache
+c:\users\lio\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+c:\users\lio\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+c:\users\lio\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+c:\users\lio\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+c:\users\lio\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+c:\users\lio\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+c:\users\lio\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmsplash.resources
+c:\users\lio\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmlogin.resources
+c:\users\lio\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmcase.resources
+c:\users\lio\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmappointment.resources
+c:\users\lio\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmmain.resources
+c:\users\lio\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmpatient.resources
+c:\users\lio\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmbill.resources
+c:\users\lio\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmstats.resources
+c:\users\lio\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmlocked.resources
+C:\Users\lio\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmchangepass.resources
+M:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+M:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+M:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+K:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+K:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+K:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+K:\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+K:\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+K:\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+K:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmbill.resources
+K:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmcase.resources
+K:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmappointment.resources
+K:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmchangepass.resources
+K:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmlogin.resources
+K:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmmain.resources
+K:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmpatient.resources
+K:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmsplash.resources
+K:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmstats.resources
+K:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmlocked.resources
+K:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+K:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Users\gai-3\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+D:\Users\gai-3\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+D:\Users\gai-3\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+D:\Users\gai-3\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\Users\gai-3\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\Users\gai-3\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\Users\gai-3\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Users\gai-3\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmbill.resources
+D:\Users\gai-3\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmcase.resources
+D:\Users\gai-3\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmappointment.resources
+D:\Users\gai-3\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmchangepass.resources
+D:\Users\gai-3\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmlogin.resources
+D:\Users\gai-3\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmmain.resources
+D:\Users\gai-3\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmpatient.resources
+D:\Users\gai-3\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmsplash.resources
+D:\Users\gai-3\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmstats.resources
+D:\Users\gai-3\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmlocked.resources
+D:\Users\gai-3\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Users\gai-3\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Users\gai-3\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\backgrounds\album\a7\nandhi\New folder\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+F:\backgrounds\album\a7\nandhi\New folder\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+F:\backgrounds\album\a7\nandhi\New folder\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\MONI\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\MONI\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\MONI\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\MONI\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\database\Dental.mdf
+C:\Users\MONI\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\database\Dental_log.ldf
+C:\Users\MONI\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\MONI\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\MONI\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\MONI\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MONI\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmbill.resources
+C:\Users\MONI\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmcase.resources
+C:\Users\MONI\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmappointment.resources
+C:\Users\MONI\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmchangepass.resources
+C:\Users\MONI\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmlogin.resources
+C:\Users\MONI\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmmain.resources
+C:\Users\MONI\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmpatient.resources
+C:\Users\MONI\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmsplash.resources
+C:\Users\MONI\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmstats.resources
+C:\Users\MONI\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmlocked.resources
+C:\Users\MONI\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\MONI\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\MONI\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+L:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+L:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+L:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+J:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+J:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+J:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+I:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+I:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+I:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+J:\dental\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+J:\dental\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+J:\dental\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+J:\dental\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\dental\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmbill.resources
+J:\dental\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmcase.resources
+J:\dental\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmappointment.resources
+J:\dental\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmchangepass.resources
+J:\dental\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmlogin.resources
+J:\dental\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmmain.resources
+J:\dental\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmpatient.resources
+J:\dental\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmsplash.resources
+J:\dental\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmstats.resources
+J:\dental\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmlocked.resources
+J:\dental\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+J:\dental\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\dental\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\dental\WindowsApplication1\bin\Debug\database\Dental.mdf
+J:\dental\WindowsApplication1\bin\Debug\database\Dental_log.ldf
+J:\dental\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+J:\dental\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+J:\dental\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\Users\gai-3\Desktop\dental\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+D:\Users\gai-3\Desktop\dental\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+D:\Users\gai-3\Desktop\dental\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+D:\Users\gai-3\Desktop\dental\WindowsApplication1\bin\Debug\database\Dental.mdf
+D:\Users\gai-3\Desktop\dental\WindowsApplication1\bin\Debug\database\Dental_log.ldf
+D:\Users\gai-3\Desktop\dental\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\Users\gai-3\Desktop\dental\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\Users\gai-3\Desktop\dental\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\Users\gai-3\Desktop\dental\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Users\gai-3\Desktop\dental\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmbill.resources
+D:\Users\gai-3\Desktop\dental\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmcase.resources
+D:\Users\gai-3\Desktop\dental\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmappointment.resources
+D:\Users\gai-3\Desktop\dental\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmchangepass.resources
+D:\Users\gai-3\Desktop\dental\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmlogin.resources
+D:\Users\gai-3\Desktop\dental\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmmain.resources
+D:\Users\gai-3\Desktop\dental\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmpatient.resources
+D:\Users\gai-3\Desktop\dental\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmsplash.resources
+D:\Users\gai-3\Desktop\dental\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmlocked.resources
+D:\Users\gai-3\Desktop\dental\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Users\gai-3\Desktop\dental\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Users\gai-3\Desktop\dental\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Users\gai-3\Desktop\PROJ\dental\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+D:\Users\gai-3\Desktop\PROJ\dental\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+D:\Users\gai-3\Desktop\PROJ\dental\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+D:\Users\gai-3\Desktop\PROJ\dental\WindowsApplication1\bin\Debug\database\Dental.mdf
+D:\Users\gai-3\Desktop\PROJ\dental\WindowsApplication1\bin\Debug\database\Dental_log.ldf
+D:\Users\gai-3\Desktop\PROJ\dental\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\Users\gai-3\Desktop\PROJ\dental\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\Users\gai-3\Desktop\PROJ\dental\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\Users\gai-3\Desktop\PROJ\dental\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Users\gai-3\Desktop\PROJ\dental\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmbill.resources
+D:\Users\gai-3\Desktop\PROJ\dental\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmcase.resources
+D:\Users\gai-3\Desktop\PROJ\dental\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmappointment.resources
+D:\Users\gai-3\Desktop\PROJ\dental\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmchangepass.resources
+D:\Users\gai-3\Desktop\PROJ\dental\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmlogin.resources
+D:\Users\gai-3\Desktop\PROJ\dental\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmmain.resources
+D:\Users\gai-3\Desktop\PROJ\dental\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmpatient.resources
+D:\Users\gai-3\Desktop\PROJ\dental\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmsplash.resources
+D:\Users\gai-3\Desktop\PROJ\dental\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmstats.resources
+D:\Users\gai-3\Desktop\PROJ\dental\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmlocked.resources
+D:\Users\gai-3\Desktop\PROJ\dental\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Users\gai-3\Desktop\PROJ\dental\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Users\gai-3\Desktop\PROJ\dental\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Users\gai-3\Desktop\dental\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmadmin.resources
+D:\Users\gai-3\Desktop\drrr\dental\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+D:\Users\gai-3\Desktop\drrr\dental\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+D:\Users\gai-3\Desktop\drrr\dental\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+D:\Users\gai-3\Desktop\drrr\dental\WindowsApplication1\bin\Debug\database\Dental.mdf
+D:\Users\gai-3\Desktop\drrr\dental\WindowsApplication1\bin\Debug\database\Dental_log.ldf
+D:\Users\gai-3\Desktop\drrr\dental\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\Users\gai-3\Desktop\drrr\dental\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\Users\gai-3\Desktop\drrr\dental\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\Users\gai-3\Desktop\drrr\dental\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Users\gai-3\Desktop\drrr\dental\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmadmin.resources
+D:\Users\gai-3\Desktop\drrr\dental\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmbill.resources
+D:\Users\gai-3\Desktop\drrr\dental\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmcase.resources
+D:\Users\gai-3\Desktop\drrr\dental\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmappointment.resources
+D:\Users\gai-3\Desktop\drrr\dental\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmchangepass.resources
+D:\Users\gai-3\Desktop\drrr\dental\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmlogin.resources
+D:\Users\gai-3\Desktop\drrr\dental\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmmain.resources
+D:\Users\gai-3\Desktop\drrr\dental\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmpatient.resources
+D:\Users\gai-3\Desktop\drrr\dental\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmsplash.resources
+D:\Users\gai-3\Desktop\drrr\dental\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmlocked.resources
+D:\Users\gai-3\Desktop\drrr\dental\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Users\gai-3\Desktop\drrr\dental\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Users\gai-3\Desktop\drrr\dental\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Users\gai-3\Desktop\dental\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmadduser.resources
+D:\Users\gai-3\Desktop\dental\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\Users\gai-3\Desktop\project\dental\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\Users\gai-3\Desktop\project\dental\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+D:\Users\gai-3\Desktop\project\dental\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+D:\Users\gai-3\Desktop\project\dental\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+D:\Users\gai-3\Desktop\project\dental\WindowsApplication1\bin\Debug\database\Dental.mdf
+D:\Users\gai-3\Desktop\project\dental\WindowsApplication1\bin\Debug\database\Dental_log.ldf
+D:\Users\gai-3\Desktop\project\dental\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\Users\gai-3\Desktop\project\dental\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\Users\gai-3\Desktop\project\dental\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\Users\gai-3\Desktop\project\dental\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Users\gai-3\Desktop\project\dental\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\Users\gai-3\Desktop\project\dental\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmadduser.resources
+D:\Users\gai-3\Desktop\project\dental\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmadmin.resources
+D:\Users\gai-3\Desktop\project\dental\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmbill.resources
+D:\Users\gai-3\Desktop\project\dental\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmcase.resources
+D:\Users\gai-3\Desktop\project\dental\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmappointment.resources
+D:\Users\gai-3\Desktop\project\dental\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmchangepass.resources
+D:\Users\gai-3\Desktop\project\dental\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmlogin.resources
+D:\Users\gai-3\Desktop\project\dental\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmmain.resources
+D:\Users\gai-3\Desktop\project\dental\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmpatient.resources
+D:\Users\gai-3\Desktop\project\dental\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmsplash.resources
+D:\Users\gai-3\Desktop\project\dental\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmlocked.resources
+D:\Users\gai-3\Desktop\project\dental\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Users\gai-3\Desktop\project\dental\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Users\gai-3\Desktop\project\dental\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Hemanth\Desktop\dental almfinal 27\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Documents and Settings\Hemanth\Desktop\dental almfinal 27\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Documents and Settings\Hemanth\Desktop\dental almfinal 27\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Documents and Settings\Hemanth\Desktop\dental almfinal 27\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Documents and Settings\Hemanth\Desktop\dental almfinal 27\WindowsApplication1\bin\Debug\database\Dental.mdf
+C:\Documents and Settings\Hemanth\Desktop\dental almfinal 27\WindowsApplication1\bin\Debug\database\Dental_log.ldf
+C:\Documents and Settings\Hemanth\Desktop\dental almfinal 27\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Documents and Settings\Hemanth\Desktop\dental almfinal 27\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Documents and Settings\Hemanth\Desktop\dental almfinal 27\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Documents and Settings\Hemanth\Desktop\dental almfinal 27\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Hemanth\Desktop\dental almfinal 27\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmadduser.resources
+C:\Documents and Settings\Hemanth\Desktop\dental almfinal 27\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmadmin.resources
+C:\Documents and Settings\Hemanth\Desktop\dental almfinal 27\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmbill.resources
+C:\Documents and Settings\Hemanth\Desktop\dental almfinal 27\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmcase.resources
+C:\Documents and Settings\Hemanth\Desktop\dental almfinal 27\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmappointment.resources
+C:\Documents and Settings\Hemanth\Desktop\dental almfinal 27\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmchangepass.resources
+C:\Documents and Settings\Hemanth\Desktop\dental almfinal 27\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmlogin.resources
+C:\Documents and Settings\Hemanth\Desktop\dental almfinal 27\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmmain.resources
+C:\Documents and Settings\Hemanth\Desktop\dental almfinal 27\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmpatient.resources
+C:\Documents and Settings\Hemanth\Desktop\dental almfinal 27\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmsplash.resources
+C:\Documents and Settings\Hemanth\Desktop\dental almfinal 27\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmlocked.resources
+C:\Documents and Settings\Hemanth\Desktop\dental almfinal 27\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\Hemanth\Desktop\dental almfinal 27\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Hemanth\Desktop\dental almfinal 27\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\dental almfinal 27\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+G:\dental almfinal 27\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+G:\dental almfinal 27\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+G:\dental almfinal 27\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+G:\dental almfinal 27\WindowsApplication1\bin\Debug\database\Dental.mdf
+G:\dental almfinal 27\WindowsApplication1\bin\Debug\database\Dental_log.ldf
+G:\dental almfinal 27\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+G:\dental almfinal 27\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+G:\dental almfinal 27\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+G:\dental almfinal 27\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\dental almfinal 27\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmadduser.resources
+G:\dental almfinal 27\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmadmin.resources
+G:\dental almfinal 27\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmbill.resources
+G:\dental almfinal 27\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmcase.resources
+G:\dental almfinal 27\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmappointment.resources
+G:\dental almfinal 27\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmchangepass.resources
+G:\dental almfinal 27\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmlogin.resources
+G:\dental almfinal 27\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmmain.resources
+G:\dental almfinal 27\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmpatient.resources
+G:\dental almfinal 27\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmsplash.resources
+G:\dental almfinal 27\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmlocked.resources
+G:\dental almfinal 27\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+G:\dental almfinal 27\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\dental almfinal 27\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Users\gai-3\Desktop\dental almfinal 27\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\Users\gai-3\Desktop\dental almfinal 27\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+D:\Users\gai-3\Desktop\dental almfinal 27\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+D:\Users\gai-3\Desktop\dental almfinal 27\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+D:\Users\gai-3\Desktop\dental almfinal 27\WindowsApplication1\bin\Debug\database\Dental.mdf
+D:\Users\gai-3\Desktop\dental almfinal 27\WindowsApplication1\bin\Debug\database\Dental_log.ldf
+D:\Users\gai-3\Desktop\dental almfinal 27\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\Users\gai-3\Desktop\dental almfinal 27\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\Users\gai-3\Desktop\dental almfinal 27\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\Users\gai-3\Desktop\dental almfinal 27\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Users\gai-3\Desktop\dental almfinal 27\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmadduser.resources
+D:\Users\gai-3\Desktop\dental almfinal 27\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmadmin.resources
+D:\Users\gai-3\Desktop\dental almfinal 27\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmbill.resources
+D:\Users\gai-3\Desktop\dental almfinal 27\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmcase.resources
+D:\Users\gai-3\Desktop\dental almfinal 27\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmappointment.resources
+D:\Users\gai-3\Desktop\dental almfinal 27\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmchangepass.resources
+D:\Users\gai-3\Desktop\dental almfinal 27\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmlogin.resources
+D:\Users\gai-3\Desktop\dental almfinal 27\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmmain.resources
+D:\Users\gai-3\Desktop\dental almfinal 27\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmpatient.resources
+D:\Users\gai-3\Desktop\dental almfinal 27\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmsplash.resources
+D:\Users\gai-3\Desktop\dental almfinal 27\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmlocked.resources
+D:\Users\gai-3\Desktop\dental almfinal 27\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Users\gai-3\Desktop\dental almfinal 27\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Users\gai-3\Desktop\dental almfinal 27\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
