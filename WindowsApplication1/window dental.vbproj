@@ -1,0 +1,346 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{2958CE1A-94FF-414B-A226-8626B4E300DD}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>WindowsApplication1.My.MyApplication</StartupObject>
+    <RootNamespace>WindowsApplication1</RootNamespace>
+    <AssemblyName>WindowsApplication1</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>WindowsApplication1.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>WindowsApplication1.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="connection.vb" />
+    <Compile Include="DentalDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DentalDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="frmadduser.Designer.vb">
+      <DependentUpon>frmadduser.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmadduser.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmadmin.Designer.vb">
+      <DependentUpon>frmadmin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmadmin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmchangepass.Designer.vb">
+      <DependentUpon>frmchangepass.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmchangepass.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmlocked.Designer.vb">
+      <DependentUpon>frmlocked.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmlocked.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmbill.Designer.vb">
+      <DependentUpon>frmbill.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmbill.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmcase.Designer.vb">
+      <DependentUpon>frmcase.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmcase.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmappointment.Designer.vb">
+      <DependentUpon>frmappointment.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmappointment.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmpatient.Designer.vb">
+      <DependentUpon>frmpatient.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmpatient.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmmain.Designer.vb">
+      <DependentUpon>frmmain.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmmain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmlogin.Designer.vb">
+      <DependentUpon>frmlogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmlogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmsplash.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmsplash.Designer.vb">
+      <DependentUpon>frmsplash.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frmadduser.resx">
+      <DependentUpon>frmadduser.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmadmin.resx">
+      <DependentUpon>frmadmin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmbill.resx">
+      <DependentUpon>frmbill.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmcase.resx">
+      <DependentUpon>frmcase.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmappointment.resx">
+      <DependentUpon>frmappointment.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmchangepass.resx">
+      <DependentUpon>frmchangepass.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmlogin.resx">
+      <DependentUpon>frmlogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmmain.resx">
+      <DependentUpon>frmmain.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmpatient.resx">
+      <DependentUpon>frmpatient.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmsplash.resx">
+      <DependentUpon>frmsplash.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmlocked.resx">
+      <DependentUpon>frmlocked.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>PublicVbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="DentalDataSet.xsc">
+      <DependentUpon>DentalDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DentalDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DentalDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DentalDataSet.xss">
+      <DependentUpon>DentalDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dental.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\locked.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\male.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unlocked.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="database\Dental.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="database\Dental_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>Dental.mdf</DependentUpon>
+    </Content>
+    <None Include="Resources\b14.jpg" />
+    <None Include="Resources\b13.jpg" />
+    <None Include="Resources\b12.jpg" />
+    <None Include="Resources\b11.jpg" />
+    <None Include="Resources\locked3.png" />
+    <None Include="Resources\unlocked3.png" />
+    <None Include="Resources\locked2.png" />
+    <None Include="Resources\unlocked2.png" />
+    <None Include="Resources\pic4.jpg" />
+    <None Include="Resources\pic3.jpg" />
+    <None Include="Resources\pic2.jpg" />
+    <None Include="Resources\pic1.png" />
+    <None Include="Resources\b2.jpg" />
+    <None Include="Resources\b1.jpg" />
+    <None Include="Resources\reset.png" />
+    <None Include="Resources\deleteuser.png" />
+    <None Include="Resources\adduser.png" />
+    <None Include="Resources\Printer.png" />
+    <None Include="Resources\Lock Open.png" />
+    <None Include="Resources\Lock Closed.png" />
+    <None Include="Resources\case sheet.png" />
+    <None Include="Resources\appo1.png" />
+    <None Include="Resources\clear.png" />
+    <None Include="Resources\bill.png" />
+    <None Include="Resources\appo.png" />
+    <None Include="Resources\admin.png" />
+    <None Include="Resources\patient.png" />
+    <None Include="Resources\trash.png" />
+    <None Include="Resources\tick.png" />
+    <None Include="Resources\settings.png" />
+    <None Include="Resources\retweet.png" />
+    <None Include="Resources\pencil.png" />
+    <None Include="Resources\search.png" />
+    <None Include="Resources\cross.png" />
+    <None Include="Resources\add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Sql.Server.Express.10.0">
+      <Visible>False</Visible>
+      <ProductName>SQL Server 2008 Express</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.4.5">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 4.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
